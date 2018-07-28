@@ -1,0 +1,18 @@
+               MAIN COURSE                                        DRINKS
+                                        
+                                        
+    ITEM                    PRICE                    ITEM                     PRICE
+
+1)Chicken Biryani           Rs.200               8)Fruit Mixture              Rs.20
+
+2)Butter Paneer             Rs.160               9)Pepsi                      Rs.15
+
+3)Butter Chicken            Rs.180              10)Coffee                     Rs.45    
+
+4)Dal Makhani               Rs.70
+
+5)Tandoori Roti             Rs.10
+
+6)Butter Nan                Rs.25
+
+7)Jeera Rice                Rs.90  
